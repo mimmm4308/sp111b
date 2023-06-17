@@ -11,10 +11,15 @@
 
 期中:
 本程式為嘗試預測BTC加密貨幣兩個月間的收盤價格
+
 資料集來自kaggle 並自行做了一些修改 https://www.kaggle.com/datasets/svaningelgem/crypto-currencies-daily-prices
+
 修改後的資料集名稱為BTC1.csv
+
 程式碼的部分參考自kaggle、chatgpt、新手村逃脫！初心者的 Python 機器學習攻略
 
 期末:
+
 https://hackmd.io/XkBVSFEjQPSE8c_C2O_8tQ?both
+
 參考自 chatgpt、CentOS 7.3建置管理與伺服器架設實戰
