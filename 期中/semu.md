@@ -27,26 +27,20 @@ semu專案提供了豐富的文檔和示例代碼，幫助使用者快速上手�
 ### 1.安裝semu：
 
 ```
-
 $ git clone https://github.com/jserv/semu.git
 $ cd semu
 $ make
-
 ```
 
 ### 2.下載ARM指令集的示例程式：
 
 ```
-
 $ wget https://example.com/arm_program.bin
-
-
 ```
 
 ### 3.創建一個semu配置文件，指定虛擬機器的硬體配置和程式的載入位置。例如，我們可以創建一個名為"config.ini"的配置文件，內容如下：
 
 ```
-
 [target]
 arch = arm
 
@@ -58,15 +52,12 @@ size = 1M
 
 [image]
 path = arm_program.bin
-
 ```
 
 ### 4.開始仿真：
 
 ```
-
 $ ./semu -c config.ini
-
 ```
 
 ### 5 在semu的命令行界面中，我們可以使用各種指令來執行和調試程式。例如：
