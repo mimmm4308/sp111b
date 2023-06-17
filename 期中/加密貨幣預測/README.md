@@ -1,3 +1,5 @@
+資工二 111010525 林品翔
+
 本程式為嘗試使用HuberRegressor預測BTC加密貨幣兩個月間的收盤價格
 
 資料集來自kaggle 並自行做了一些修改 https://www.kaggle.com/datasets/svaningelgem/crypto-currencies-daily-prices
